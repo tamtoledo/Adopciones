@@ -1,0 +1,38 @@
+body{
+    background-color: #f5f5f5;
+}
+*{
+font-family: Helvetica, sans-serif;
+text-align: center;
+}
+
+#img-portada {
+    width: 25%;
+    max-width: 100px;
+}
+
+#seccion-perritos{ background-color: #E2C058; color : #f5f5f5 }
+#seccion-gatitos{ background-color: #AAD2C9; color : #f5f5f5 }
+
+#seccion-postulate{
+    margin: 20px auto;
+    background-color: #67917B;
+    color:#f5f5f5;
+    padding: 20px;
+    width: 30%;
+}
+
+#seccion-dona{
+    margin: 20px auto;
+    background-color: #d3922a;
+    color:#f5f5f5;
+    padding: 20px;
+    width: 30%;
+}
+
+.naranja{
+    color:#E2C058 ;
+}
+.verde{
+    color:#AAD2C9 ;
+}
